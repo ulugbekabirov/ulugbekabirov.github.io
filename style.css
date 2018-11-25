@@ -30,6 +30,7 @@ body{
 			color: #5387db;
 			text-align: center;
 			font-size: 26pt;
+			font-family:sans-serif;
 		}
 		.c{
 
@@ -81,6 +82,7 @@ body{
 		p{
 			font-size: 12pt;
 			color: #040404;
+			font-family: "Comic Sans MS";
 		}
 		
 
